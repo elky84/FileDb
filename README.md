@@ -1,2 +1,2 @@
-# fdb
+# filedb
 lightweight file database
